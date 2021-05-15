@@ -1,0 +1,31 @@
+body {
+	font-family:  'Josefin Sans';
+}
+
+.container {
+	width: 500px;
+	margin: auto;
+	height: auto;
+	padding-top: 10px;
+	}
+	
+	h1 {
+		font-size: 40px;
+		font-weight: 700;
+		font-style: bold;
+	}
+	
+.author {
+	font-size:  25px;
+	font-weight: 300;
+}
+.content {
+	font-size: 25px;
+}
+
+.footer {
+font-size: 20px;
+}	
+.italic {
+	font-style: italic;
+}
