@@ -6,25 +6,27 @@ body {
 	width: 500px;
 	margin: auto;
 	height: auto;
-	padding-top: 10px;
+	padding-top: 0px;
 	}
 	
 	h1 {
-		font-size: 40px;
+		font-size: 45px;
 		font-weight: 700;
 		font-style: bold;
 	}
 	
 .author {
-	font-size:  25px;
+	font-size:  30px;
 	font-weight: 300;
 }
 .content {
-	font-size: 25px;
+	font-size: 20px;
+	padding-top: 15px;
 }
 
 .footer {
-font-size: 20px;
+font-size: 25px;
+padding-top: 15px;
 }	
 .italic {
 	font-style: italic;
